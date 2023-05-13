@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "watsuyo.dev"
-  tagline: Vue.js Frontend Developer. This is my personal website where I write about Vue.js, Nuxt.js, Vite, and Tailwind CSS.
+  tagline: Vue.js Frontend Developer. This is my personal website where I write about my history, Web Frontend, Vue.js, Web Design.
   actions:
     - theme: brand
       text: about
