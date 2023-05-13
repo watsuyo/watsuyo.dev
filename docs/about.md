@@ -24,4 +24,4 @@ Hey, I’m watsuyo, a frontend developer from Japan. I write about Vue.js, Nuxt.
 ## More
 
 - [About](/about)
-- [Posts](/posts)
+- [Posts](https://posts.watsuyo.dev/)

@@ -19,7 +19,7 @@ features:
     link: /about
   - title: Posts
     details: Written in Japanese
-    link: /posts
+    link: https://posts.watsuyo.dev/
   - title: GitHub
     details: My repositories
     link: https://github.com/watsuyo
